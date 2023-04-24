@@ -11,6 +11,7 @@
 ![covid19dashboard](https://user-images.githubusercontent.com/131236063/233922937-50cd2618-6371-49e2-bcf0-91c532d82768.PNG)
 
 
-[Covid Dashboard.pdf](https://github.com/Analyst-Sarthak/covid19-dashboard/files/11306768/Covid.Dashboard.pdf)
+[Covid Dashboard.pdf](https://github.com/Analyst-Sarthak/covid19-dashboard/files/11307593/Covid.Dashboard.pdf)
+
 
 
