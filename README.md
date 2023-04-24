@@ -6,6 +6,9 @@
 * I have used WHO data for this Project.
 * Data Link:- https://covid19.who.int/data
 
+# Presentation
+* LINK:- [COVID-19 DASHBOARD.pptx](https://github.com/Analyst-Sarthak/covid19-dashboard/files/11308158/COVID-19.DASHBOARD.pptx)
+
 # Dashboard
 
 ![covid19dashboard](https://user-images.githubusercontent.com/131236063/233922937-50cd2618-6371-49e2-bcf0-91c532d82768.PNG)
