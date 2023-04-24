@@ -8,4 +8,6 @@
 
 # Dashboard
 
+[Covid Dashboard.pdf](https://github.com/Analyst-Sarthak/covid19-dashboard/files/11306768/Covid.Dashboard.pdf)
+
 
